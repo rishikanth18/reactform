@@ -1,0 +1,16 @@
+.signup-form .error {
+  color: #e74c3c;
+  font-size: 0.875rem;
+  margin-top: -0.75rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.signup-form .success-msg {
+  background: #27ae60;
+  color: white;
+  padding: 0.75rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  text-align: center;
+}
